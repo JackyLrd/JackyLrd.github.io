@@ -8,10 +8,10 @@ titles:
 key: page-about
 ---
 
-Just say something about yourself. :+1:
+This is Jacky's blog.
 
 {% highlight javascript %}
-(() => console.log('hello, world!'))();
+I'm a college student.
 {% endhighlight %}
 
 ## title
